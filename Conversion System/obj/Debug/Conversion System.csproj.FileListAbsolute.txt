@@ -1,0 +1,8 @@
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\bin\Debug\Conversion System.exe.config
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\bin\Debug\Conversion System.exe
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\bin\Debug\Conversion System.pdb
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\obj\Debug\Conversion_System.Form1.resources
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\obj\Debug\Conversion_System.Properties.Resources.resources
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\obj\Debug\Conversion System.csproj.GenerateResource.Cache
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\obj\Debug\Conversion System.exe
+c:\users\power tech\documents\visual studio 2012\Projects\Conversion System\Conversion System\obj\Debug\Conversion System.pdb
